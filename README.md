@@ -31,5 +31,3 @@ Install ELK SIEM using Ansible
 6)Next, get some data in your siem.
 
 
-CREDITS:
-For the ansible install script: https://github.com/neillturner/omnibus-ansible
