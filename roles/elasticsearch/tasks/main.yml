@@ -24,7 +24,7 @@
    name: elasticsearch
    update_cache: yes
 
-# Update Elasticsearch config file to allow access (to secure Elasticsearch, bind to 'localhost').
+# Update Elasticsearch config file to allow access (to secure Elasticsearch, bind to 'localhost')
 
 - name: Updating the config file to allow outside access
   lineinfile:
